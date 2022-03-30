@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="beIN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",beIN 1
+#EXTINF:0 tvg-name="beIN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN",beIN 1
 http://172.29.91.11/0.ts
 #EXTINF:0 tvg-name="beIN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN",beIN 2
 http://172.29.91.12/0.ts
