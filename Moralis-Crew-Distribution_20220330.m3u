@@ -3,9 +3,9 @@
 http://172.29.91.21/0.ts
 #EXTINF:0 tvg-name="Crew TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="beIN",Crew TV 2
 http://172.29.91.22/0.ts
-#EXTINF:0 tvg-name="Crew TV 3" tvg-logo="https://github.com/google/material-design-icons/blob/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 3
+#EXTINF:0 tvg-name="Crew TV 3" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 3
 http://172.29.91.31/0.ts
-#EXTINF:0 tvg-name="Crew TV 4" tvg-logo="https://github.com/google/material-design-icons/blob/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 4
+#EXTINF:0 tvg-name="Crew TV 4" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 4
 http://172.29.91.32/0.ts
 #EXTINF:0 tvg-name="Crew TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/2560px-OSN_2020_logo.svg.png" group-title="OSN",Crew TV 5
 http://172.29.91.33/0.ts
@@ -17,7 +17,7 @@ http://172.29.91.23/0.ts
 http://172.29.91.24/0.ts
 #EXTINF:0 tvg-name="Crew TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Roku_logo.svg/1280px-Roku_logo.svg.png" group-title="Roku",Crew TV 9
 http://172.29.91.11/0.ts
-#EXTINF:0 tvg-name="Crew TV 10" tvg-logo="https://github.com/google/material-design-icons/blob/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 10
+#EXTINF:0 tvg-name="Crew TV 10" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 10
 http://172.29.91.12/0.ts
 #EXTINF:0 tvg-name="Crew TV 11" tvg-logo="https://w7.pngwing.com/pngs/829/293/png-transparent-computer-cases-housings-personal-computer-computer-icons-computer-monitors-logo-technology-computer-computer-network-rectangle-logo.png" group-title="Crew PC",Crew TV 11
 http://172.29.91.13/0.ts
