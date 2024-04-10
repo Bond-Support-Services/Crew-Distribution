@@ -3,8 +3,8 @@
 http://172.29.91.21/0.ts
 #EXTINF:0 tvg-name="Crew TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Crew Source 2",Crew TV 2
 http://172.29.91.22/0.ts
-#EXTINF:0 tvg-name="Crew TV 3" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 3
-http://172.29.91.31/0.ts
+#EXTINF:0 tvg-name="Crew TV 3" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew Source 1",Crew TV 3
+http://172.29.91.21/0.ts
 #EXTINF:0 tvg-name="Crew TV 4" tvg-logo="https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/tv/materialicons/48dp/3x/baseline_tv_black_48dp.png" group-title="Crew TV",Crew TV 4
 http://172.29.91.32/0.ts
 #EXTINF:0 tvg-name="Crew TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/2560px-OSN_2020_logo.svg.png" group-title="OSN",Crew TV 5
